@@ -14,7 +14,8 @@ function preload() {
   fuelImage = loadImage("./assets/fuel.png");
   powerCoinImage = loadImage("./assets/goldCoin.png");
   lifeImage = loadImage("./assets/life.png");
-  obstacle1Image = loadImage("./assets/obstacle1.png"); 
+  obstacle1Image = loadImage("./assets/obstacle1.png");
+  obstacle2Imagr = loadImage("./assets/obstacle2.png");
 }
 
 //BP
